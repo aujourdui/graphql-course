@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "id": "40",
-      "firstName": "Alex",
-      "age": 40,
-      "companyId": "2"
-    },
-    {
       "id": "41",
       "firstName": "Nick",
       "age": 40,
@@ -16,6 +10,11 @@
       "firstName": "Stephen",
       "age": 26,
       "id": "_2vhg2f"
+    },
+    {
+      "id": "40",
+      "firstName": "Kazu",
+      "age": 10
     }
   ],
   "companies": [
